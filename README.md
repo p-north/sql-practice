@@ -1,2 +1,2 @@
 # sql-practice
-Repo for mastering sql!
+This is my one shot repo for mastering SQL!

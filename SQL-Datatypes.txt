@@ -1,0 +1,10 @@
+CHAR --- string(0-255) can store chars of fixed length.
+VARCHAR - string(0-255) can store chars upto given length.
+BLOB -- can store binary large object.
+INT - regular integer type.
+TINYINT -- integer(-128 to 127) small integer.
+BIGINT -- very small values to larger values.
+BIT -- can store x-bit values from 1 to 64.
+FLOAT -- decimal data types.
+DATE  -- date in format YYYY-MM-DD.
+YEAR -- year in 4 digits ranging from 1901 to 2155.
